@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lifeisgamble
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Unity friends
+- 👀 I’m interested in Python, Django, HipHop
+- 🌱 I’m currently learning Python and Django
+- 💞️ I’m looking to collaborate on Python or HipHop friends
 - 📫 How to reach me kawanabe.shintaro@gmail.com
 
 <!---
